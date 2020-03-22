@@ -1,0 +1,2 @@
+This is a simple gender classification program that classifies the gender of the subject as male or female by taking input the subjects height ,weight and shoe size.
+The program uses decision tree classifier and naive bayes classifier. 
